@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/qr-barcode-scanner-test/static/css/main.7fbb0f64.css",
-    "main.js": "/qr-barcode-scanner-test/static/js/main.812ba2dd.js",
+    "main.js": "/qr-barcode-scanner-test/static/js/main.e766c84f.js",
     "index.html": "/qr-barcode-scanner-test/index.html",
     "main.7fbb0f64.css.map": "/qr-barcode-scanner-test/static/css/main.7fbb0f64.css.map",
-    "main.812ba2dd.js.map": "/qr-barcode-scanner-test/static/js/main.812ba2dd.js.map"
+    "main.e766c84f.js.map": "/qr-barcode-scanner-test/static/js/main.e766c84f.js.map"
   },
   "entrypoints": [
     "static/css/main.7fbb0f64.css",
-    "static/js/main.812ba2dd.js"
+    "static/js/main.e766c84f.js"
   ]
 }
